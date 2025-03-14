@@ -24,5 +24,15 @@ body{
 }
 .tarjeta{
     display: inline-flex;
-    justify-content: center;
+}
+.card:hover{
+    background-color: #e2e2e2;
+    transform: scale(1.05);
+}
+.card .footer{
+    padding: 25px;
+    text-align: center;
+}
+.card a{
+    text-decoration: none;
 }
