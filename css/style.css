@@ -24,6 +24,7 @@ body{
 }
 .tarjeta{
     display: inline-flex;
+    justify-content: center;
 }
 .card:hover{
     background-color: #e2e2e2;
